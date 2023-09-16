@@ -3,7 +3,7 @@ let citaElem = document.getElementById('cita');
 let autorElem = document.getElementById('autor');
 
 function generarEnteroAleatorio(max) {
- 
+  //no cuenta el valor maximo
   return Math.floor(Math.random() * max);
 }
 function cambiarCita() {
