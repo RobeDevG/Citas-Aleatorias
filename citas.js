@@ -7,6 +7,7 @@ let citas = [
     'autor': 'Chocolate MC',
     'texto': 'Rastameba 2',
   },
+  
   {
     'autor': 'Roberto',
     'texto': 'Ay dias q tiras la carnada y pica al momento, dias q demora,y dias q no pica ,no estoy hablando de pescar',
