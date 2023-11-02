@@ -10,6 +10,10 @@ body{
   align-items: center;
   height: 100vh;
   text-align: center;
+  background-image: url(img/pngtree-an-old-library-or-book-room-with-some-books-and-plants-image_2521166.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
 .contenido-centrado{
   display: flex;
@@ -24,8 +28,9 @@ body{
   padding: 20px;
   background-color: white;
   color: black;
-  border: 5px solid black;
+  border: 3px solid black;
   border-radius: 30px;
+  box-shadow: 0 0 20px #0f0d13;
 }
 .contenedor-interno{
   width: 80%;
@@ -62,12 +67,12 @@ body{
   font-size: 20px;
 }
 .btn{
-  background-color: blue;
+  background-color: rgb(23, 23, 29);
   color: white;
   border-radius: 5px;
 }
 .btn-primary:hover{
   cursor: pointer;
-  background-color: rgb(69, 69, 243);
+  background-color: rgb(49, 49, 59);
   transition-duration: 0.4s;
 }
